@@ -91,5 +91,11 @@ return array(
             'bold_italic' => $distFontDir . 'DejaVuSerif-BoldItalic',
             'italic' => $distFontDir . 'DejaVuSerif-Italic',
             'normal' => $distFontDir . 'DejaVuSerif'
-        )
+        ),
+    'helvetica_nieuw' => array(
+        'normal' => $distFontDir . '/helvetica_nieuw_regular',
+        'bold' => $distFontDir . '/helvetica_nieuw_bold',
+        'italic' => $distFontDir . '/helvetica_nieuw_italic',
+        'bold_italic' => $distFontDir . '/helvetica_nieuw_bold_italic',
+    ),
 );
