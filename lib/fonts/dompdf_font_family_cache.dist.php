@@ -92,10 +92,10 @@ return array(
             'italic' => $distFontDir . 'DejaVuSerif-Italic',
             'normal' => $distFontDir . 'DejaVuSerif'
         ),
-    'helvetica_nieuw' => array(
-        'normal' => $distFontDir . '/helvetica_nieuw_regular',
-        'bold' => $distFontDir . '/helvetica_nieuw_bold',
-        'italic' => $distFontDir . '/helvetica_nieuw_italic',
-        'bold_italic' => $distFontDir . '/helvetica_nieuw_bold_italic',
+    'helvetica_extra' => array(
+        'normal' => $distFontDir . '/helvetica-extra-regular',
+        'bold' => $distFontDir . '/helvetica-extra-bold',
+        'italic' => $distFontDir . '/helvetica-extra-italic',
+        'bold_italic' => $distFontDir . '/helvetica-extra-bold-italic',
     ),
 );
